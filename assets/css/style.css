@@ -1,0 +1,23 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.logo-imagen {
+  max-height: 53px;
+}
+.titulo h1 {
+  font-size: 3.75em;
+}
+.iconos {
+  color: white;
+  font-size: 75px;
+}
+.pagos h2 {
+  font-size: 40px;
+  padding-top: 7%;
+}
+.logoFooter {
+  top: 1407px;
+  left: 627px;
+  width: 53px;
+  height: 100px;
+}
